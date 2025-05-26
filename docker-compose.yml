@@ -1,0 +1,67 @@
+version: '3'
+
+services:
+  # Vulnerable web server with FTP service
+  web-server:
+    build: ./images/web-server
+    container_name: web-server
+    networks:
+      idps_network:
+        ipv4_address: 172.20.0.2
+    ports:
+      - "80:80"   # HTTP
+      - "21:21"   # FTP control
+      - "20:20"   # FTP data
+      - "22:22"   # SSH
+    volumes:
+      - ./shared:/shared
+    cap_add:
+      - NET_ADMIN
+    restart: "no"  # Changed to "no" for faster startup/shutdown during development
+
+  # Attacker machine with attack tools
+  attacker:
+    build: 
+      context: ./images/attacker
+      args:
+        - INSTALL_MINIMAL=true  # Only install essential packages for faster build
+    container_name: attacker
+    networks:
+      idps_network:
+        ipv4_address: 172.20.0.3
+    volumes:
+      - ./shared:/shared
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    restart: "no"
+    depends_on:
+      - web-server
+
+  # IDPS monitoring system
+  idps:
+    build: ./images/idps
+    container_name: idps
+    networks:
+      idps_network:
+        ipv4_address: 172.20.0.4
+    volumes:
+      - ./shared:/shared
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    environment:
+      - SURICATA_HOME=/etc/suricata
+      - LOG_DIR=/shared/logs
+      - PCAP_DIR=/shared/pcaps
+    restart: "no"
+    depends_on:
+      - web-server
+      - attacker
+
+networks:
+  idps_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

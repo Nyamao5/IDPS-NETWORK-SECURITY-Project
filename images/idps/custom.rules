@@ -1,0 +1,31 @@
+# FTP Brute Force Detection
+alert tcp any any -> any 21 (msg:"Potential FTP brute force attack"; flow:established,to_server; content:"USER"; nocase; threshold:type threshold, track by_src, count 5, seconds 60; classtype:attempted-admin; sid:1000001; rev:1;)
+
+# SQL Injection Detection
+alert http any any -> any 80 (msg:"SQL Injection Attempt"; flow:established,to_server; http.uri; content:"1=1"; classtype:web-application-attack; sid:1000002; rev:1;)
+alert http any any -> any 80 (msg:"SQL Injection Attempt - UNION"; flow:established,to_server; http.uri; content:"UNION"; nocase; classtype:web-application-attack; sid:1000006; rev:1;)
+alert http any any -> any 80 (msg:"SQL Injection Attempt - Comment"; flow:established,to_server; http.uri; content:"--"; classtype:web-application-attack; sid:1000007; rev:1;)
+
+# HTTP DoS Detection
+alert http any any -> any 80 (msg:"Potential HTTP DoS attack"; flow:established,to_server; threshold:type threshold, track by_src, count 50, seconds 10; classtype:attempted-dos; sid:1000003; rev:1;)
+
+# FTP Anonymous Login
+alert tcp any any -> any 21 (msg:"Anonymous FTP Login Attempt"; flow:established,to_server; content:"USER"; nocase; content:"anonymous"; distance:1; nocase; classtype:misc-activity; sid:1000004; rev:1;)
+
+# HTTP Directory Traversal
+alert http any any -> any 80 (msg:"Directory Traversal Attempt"; flow:established,to_server; http.uri; content:"../"; classtype:web-application-attack; sid:1000005; rev:1;)
+
+# Port Scanning Detection
+alert tcp any any -> $HOME_NET any (msg:"Potential port scanning activity"; flags:S; threshold:type threshold, track by_src, count 15, seconds 60; classtype:attempted-recon; sid:1000008; rev:1;)
+
+# SSH Brute Force Detection
+alert tcp any any -> any 22 (msg:"Potential SSH brute force attack"; flow:established,to_server; threshold:type threshold, track by_src, count 5, seconds 60; classtype:attempted-admin; sid:1000009; rev:1;)
+
+# HTTP XSS Detection
+alert http any any -> any 80 (msg:"XSS Attempt"; flow:established,to_server; http.uri; content:"<script>"; nocase; classtype:web-application-attack; sid:1000010; rev:1;)
+
+# Data Exfiltration Detection (Large Data Transfer)
+alert tcp any any -> !$HOME_NET any (msg:"Potential data exfiltration"; flow:established,to_server; byte_test:>500000,>,0,relative; threshold:type threshold, track by_src, count 3, seconds 60; classtype:data-loss; sid:1000011; rev:1;)
+
+# HTTPS Unusual Traffic Pattern
+alert tcp any any -> any 443 (msg:"Unusual HTTPS traffic pattern"; flow:established; threshold:type threshold, track by_src, count 100, seconds 60; classtype:misc-activity; sid:1000012; rev:1;)

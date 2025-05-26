@@ -1,0 +1,69 @@
+%YAML 1.1
+---
+# Suricata configuration file for Docker IDPS 
+
+# Define the default network interface
+af-packet:
+  - interface: eth0
+    cluster-id: 99
+    cluster-type: cluster_flow
+    defrag: yes
+
+# Path to our classification file
+classification-file: /etc/suricata/classification.config
+
+# Path to our rules
+default-rule-path: /etc/suricata/rules
+
+rule-files:
+  - custom.rules
+  - suricata.rules
+
+# Set log directory - changed from /var/log/suricata/ to /shared/logs/
+default-log-dir: /shared/logs/
+
+# Configure outputs
+outputs:
+  - fast:
+      enabled: yes
+      filename: fast.log
+      append: yes
+  - eve-log:
+      enabled: yes
+      filetype: regular
+      filename: eve.json
+      types:
+        - alert
+        - http
+        - dns
+        - tls
+        - files
+        - ssh
+        - ftp
+        - flow # Added flow monitoring to capture more data
+
+# Configure detection engine
+detect-engine:
+  - profile: medium
+  - custom-values:
+      toclient-groups: 3
+      toserver-groups: 25
+
+# Application layer protocols
+app-layer:
+  protocols:
+    http:
+      enabled: yes
+    ftp:
+      enabled: yes
+    ssh:
+      enabled: yes
+    tls:
+      enabled: yes
+
+# Add threshold configuration to reduce alert noise
+threshold:
+  type: threshold
+  track: by_src
+  count: 5
+  seconds: 60

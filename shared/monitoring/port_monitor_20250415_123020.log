@@ -1,0 +1,4429 @@
+=== Network Port Monitor Started at Tue Apr 15 12:30:20 UTC 2025 ===
+Target: web-server
+Interval: 5 seconds
+===========================================================
+Starting continuous port monitoring. Press Ctrl+C to stop.
+
+=== Monitoring Iteration 1 at Tue Apr 15 12:30:20 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 2 at Tue Apr 15 12:30:25 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 3 at Tue Apr 15 12:30:30 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 4 at Tue Apr 15 12:30:35 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 5 at Tue Apr 15 12:30:40 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 6 at Tue Apr 15 12:30:45 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 7 at Tue Apr 15 12:30:50 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 8 at Tue Apr 15 12:30:55 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 9 at Tue Apr 15 12:31:00 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 10 at Tue Apr 15 12:31:06 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 11 at Tue Apr 15 12:31:11 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 12 at Tue Apr 15 12:31:16 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 13 at Tue Apr 15 12:31:21 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 14 at Tue Apr 15 12:31:26 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 15 at Tue Apr 15 12:31:31 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 16 at Tue Apr 15 12:31:36 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 17 at Tue Apr 15 12:31:41 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 18 at Tue Apr 15 12:31:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 19 at Tue Apr 15 12:31:51 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 20 at Tue Apr 15 12:31:56 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 21 at Tue Apr 15 12:32:02 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 22 at Tue Apr 15 12:32:07 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 23 at Tue Apr 15 12:32:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 24 at Tue Apr 15 12:32:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 25 at Tue Apr 15 12:32:22 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 26 at Tue Apr 15 12:32:27 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 27 at Tue Apr 15 12:32:32 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 28 at Tue Apr 15 12:32:37 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 29 at Tue Apr 15 12:32:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 30 at Tue Apr 15 12:32:47 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 31 at Tue Apr 15 12:32:52 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 32 at Tue Apr 15 12:32:58 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 33 at Tue Apr 15 12:33:03 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 34 at Tue Apr 15 12:33:08 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 35 at Tue Apr 15 12:33:13 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 36 at Tue Apr 15 12:33:18 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 37 at Tue Apr 15 12:33:23 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 38 at Tue Apr 15 12:33:28 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 39 at Tue Apr 15 12:33:33 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 40 at Tue Apr 15 12:33:38 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 41 at Tue Apr 15 12:33:43 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 42 at Tue Apr 15 12:33:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 43 at Tue Apr 15 12:33:53 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 44 at Tue Apr 15 12:33:59 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 45 at Tue Apr 15 12:34:04 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 46 at Tue Apr 15 12:34:09 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 47 at Tue Apr 15 12:34:14 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 48 at Tue Apr 15 12:34:19 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 49 at Tue Apr 15 12:34:24 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 50 at Tue Apr 15 12:34:29 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 51 at Tue Apr 15 12:34:34 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 52 at Tue Apr 15 12:34:39 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 53 at Tue Apr 15 12:34:44 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 54 at Tue Apr 15 12:34:49 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 55 at Tue Apr 15 12:34:55 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 56 at Tue Apr 15 12:35:00 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 57 at Tue Apr 15 12:35:05 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 58 at Tue Apr 15 12:35:10 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 59 at Tue Apr 15 12:35:15 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 60 at Tue Apr 15 12:35:20 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 61 at Tue Apr 15 12:35:25 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 62 at Tue Apr 15 12:35:30 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 63 at Tue Apr 15 12:35:35 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 64 at Tue Apr 15 12:35:40 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 65 at Tue Apr 15 12:35:45 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 66 at Tue Apr 15 12:35:51 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 67 at Tue Apr 15 12:35:56 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 68 at Tue Apr 15 12:36:01 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 69 at Tue Apr 15 12:36:06 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 70 at Tue Apr 15 12:36:11 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 71 at Tue Apr 15 12:36:16 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 72 at Tue Apr 15 12:36:21 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 73 at Tue Apr 15 12:36:26 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 74 at Tue Apr 15 12:36:31 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 75 at Tue Apr 15 12:36:36 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 76 at Tue Apr 15 12:36:41 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 77 at Tue Apr 15 12:36:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 78 at Tue Apr 15 12:36:52 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 79 at Tue Apr 15 12:36:57 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 80 at Tue Apr 15 12:37:02 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 81 at Tue Apr 15 12:37:07 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 82 at Tue Apr 15 12:37:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 83 at Tue Apr 15 12:37:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 84 at Tue Apr 15 12:37:22 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 85 at Tue Apr 15 12:37:27 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 86 at Tue Apr 15 12:37:32 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 87 at Tue Apr 15 12:37:37 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 88 at Tue Apr 15 12:37:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 89 at Tue Apr 15 12:37:47 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 90 at Tue Apr 15 12:37:53 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 91 at Tue Apr 15 12:37:58 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 92 at Tue Apr 15 12:38:03 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 93 at Tue Apr 15 12:38:08 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 94 at Tue Apr 15 12:38:13 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 95 at Tue Apr 15 12:38:18 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 96 at Tue Apr 15 12:38:23 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 97 at Tue Apr 15 12:38:28 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 98 at Tue Apr 15 12:38:33 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 99 at Tue Apr 15 12:38:38 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 100 at Tue Apr 15 12:38:43 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 101 at Tue Apr 15 12:38:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 102 at Tue Apr 15 12:38:53 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 103 at Tue Apr 15 12:38:59 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 104 at Tue Apr 15 12:39:04 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 105 at Tue Apr 15 12:39:09 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 106 at Tue Apr 15 12:39:14 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 107 at Tue Apr 15 12:39:19 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 108 at Tue Apr 15 12:39:24 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 109 at Tue Apr 15 12:39:29 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 110 at Tue Apr 15 12:39:34 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 111 at Tue Apr 15 12:39:39 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 112 at Tue Apr 15 12:39:44 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 113 at Tue Apr 15 12:39:49 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 114 at Tue Apr 15 12:39:54 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 115 at Tue Apr 15 12:39:59 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 116 at Tue Apr 15 12:40:05 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 117 at Tue Apr 15 12:40:10 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 118 at Tue Apr 15 12:40:15 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 119 at Tue Apr 15 12:40:20 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 120 at Tue Apr 15 12:40:25 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 121 at Tue Apr 15 12:40:30 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 122 at Tue Apr 15 12:40:35 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 123 at Tue Apr 15 12:40:40 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 124 at Tue Apr 15 12:40:45 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 125 at Tue Apr 15 12:40:50 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 126 at Tue Apr 15 12:40:55 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 127 at Tue Apr 15 12:41:00 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 128 at Tue Apr 15 12:41:05 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 129 at Tue Apr 15 12:41:11 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 130 at Tue Apr 15 12:41:16 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 131 at Tue Apr 15 12:41:21 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 132 at Tue Apr 15 12:41:26 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 133 at Tue Apr 15 12:41:31 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 134 at Tue Apr 15 12:41:36 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 135 at Tue Apr 15 12:41:41 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 136 at Tue Apr 15 12:41:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 137 at Tue Apr 15 12:41:51 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 138 at Tue Apr 15 12:41:56 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 139 at Tue Apr 15 12:42:01 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 140 at Tue Apr 15 12:42:06 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 141 at Tue Apr 15 12:42:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 142 at Tue Apr 15 12:42:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 143 at Tue Apr 15 12:42:22 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 144 at Tue Apr 15 12:42:27 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 145 at Tue Apr 15 12:42:32 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 146 at Tue Apr 15 12:42:37 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 147 at Tue Apr 15 12:42:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 148 at Tue Apr 15 12:42:47 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 149 at Tue Apr 15 12:42:52 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 150 at Tue Apr 15 12:42:57 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 151 at Tue Apr 15 12:43:02 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 152 at Tue Apr 15 12:43:07 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 153 at Tue Apr 15 12:43:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 154 at Tue Apr 15 12:43:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 155 at Tue Apr 15 12:43:23 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 156 at Tue Apr 15 12:43:28 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 157 at Tue Apr 15 12:43:33 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 158 at Tue Apr 15 12:43:38 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 159 at Tue Apr 15 12:43:43 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 160 at Tue Apr 15 12:43:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 161 at Tue Apr 15 12:43:53 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 162 at Tue Apr 15 12:43:58 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 163 at Tue Apr 15 12:44:03 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 164 at Tue Apr 15 12:44:08 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 165 at Tue Apr 15 12:44:13 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 166 at Tue Apr 15 12:44:18 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 167 at Tue Apr 15 12:44:23 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 168 at Tue Apr 15 12:44:29 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 169 at Tue Apr 15 12:44:34 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 170 at Tue Apr 15 12:44:39 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 171 at Tue Apr 15 12:44:44 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 172 at Tue Apr 15 12:44:49 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 173 at Tue Apr 15 12:44:54 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 174 at Tue Apr 15 12:44:59 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 175 at Tue Apr 15 12:45:04 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 176 at Tue Apr 15 12:45:09 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 177 at Tue Apr 15 12:45:14 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 178 at Tue Apr 15 12:45:19 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 179 at Tue Apr 15 12:45:24 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 180 at Tue Apr 15 12:45:29 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 181 at Tue Apr 15 12:45:35 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 182 at Tue Apr 15 12:45:40 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 183 at Tue Apr 15 12:45:45 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 184 at Tue Apr 15 12:45:50 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 185 at Tue Apr 15 12:45:55 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 186 at Tue Apr 15 12:46:00 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 187 at Tue Apr 15 12:46:05 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 188 at Tue Apr 15 12:46:10 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 189 at Tue Apr 15 12:46:15 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 190 at Tue Apr 15 12:46:20 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 191 at Tue Apr 15 12:46:25 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 192 at Tue Apr 15 12:46:30 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 193 at Tue Apr 15 12:46:35 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 194 at Tue Apr 15 12:46:40 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 195 at Tue Apr 15 12:46:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 196 at Tue Apr 15 12:46:51 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 197 at Tue Apr 15 12:46:56 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 198 at Tue Apr 15 12:47:01 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 199 at Tue Apr 15 12:47:06 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 200 at Tue Apr 15 12:47:11 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 201 at Tue Apr 15 12:47:16 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 202 at Tue Apr 15 12:47:21 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 203 at Tue Apr 15 12:47:26 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 204 at Tue Apr 15 12:47:31 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 205 at Tue Apr 15 12:47:36 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 206 at Tue Apr 15 12:47:41 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 207 at Tue Apr 15 12:47:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 208 at Tue Apr 15 12:47:52 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 209 at Tue Apr 15 12:47:57 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 210 at Tue Apr 15 12:48:02 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 211 at Tue Apr 15 12:48:07 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 212 at Tue Apr 15 12:48:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 213 at Tue Apr 15 12:48:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 214 at Tue Apr 15 12:48:22 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 215 at Tue Apr 15 12:48:27 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 216 at Tue Apr 15 12:48:32 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 217 at Tue Apr 15 12:48:37 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 218 at Tue Apr 15 12:48:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 219 at Tue Apr 15 12:48:47 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 220 at Tue Apr 15 12:48:53 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 221 at Tue Apr 15 12:48:58 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 222 at Tue Apr 15 12:49:03 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 223 at Tue Apr 15 12:49:08 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 224 at Tue Apr 15 12:49:13 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 225 at Tue Apr 15 12:49:18 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 226 at Tue Apr 15 12:49:23 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 227 at Tue Apr 15 12:49:28 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 228 at Tue Apr 15 12:49:33 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 229 at Tue Apr 15 12:49:38 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 230 at Tue Apr 15 12:49:43 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+
+Open ports on web-server:
+
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 231 at Tue Apr 15 12:49:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 232 at Tue Apr 15 12:49:53 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================
+
+=== Monitoring Iteration 233 at Tue Apr 15 12:49:59 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 5 seconds...
+===========================================================

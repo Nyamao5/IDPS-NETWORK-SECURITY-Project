@@ -1,0 +1,2497 @@
+=== Network Port Monitor Started at Tue Apr 15 12:50:03 UTC 2025 ===
+Target: web-server
+Interval: 30 seconds
+===========================================================
+Starting continuous port monitoring. Press Ctrl+C to stop.
+
+=== Monitoring Iteration 1 at Tue Apr 15 12:50:03 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 2 at Tue Apr 15 12:50:33 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 3 at Tue Apr 15 12:51:03 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 4 at Tue Apr 15 12:51:34 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 5 at Tue Apr 15 12:52:04 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 12:52 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.0000090s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.31 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 6 at Tue Apr 15 12:52:34 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 7 at Tue Apr 15 12:53:04 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 8 at Tue Apr 15 12:53:34 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 9 at Tue Apr 15 12:54:04 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 10 at Tue Apr 15 12:54:34 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 12:54 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000015s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.32 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 11 at Tue Apr 15 12:55:05 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 12 at Tue Apr 15 12:55:35 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 13 at Tue Apr 15 12:56:05 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 14 at Tue Apr 15 12:56:35 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 15 at Tue Apr 15 12:57:05 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 12:57 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.0000080s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.34 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 16 at Tue Apr 15 12:57:36 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 17 at Tue Apr 15 12:58:06 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 18 at Tue Apr 15 12:58:36 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 19 at Tue Apr 15 12:59:06 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 20 at Tue Apr 15 12:59:36 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 12:59 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000019s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.38 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 21 at Tue Apr 15 13:00:07 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 22 at Tue Apr 15 13:00:37 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 23 at Tue Apr 15 13:01:07 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 24 at Tue Apr 15 13:01:37 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 25 at Tue Apr 15 13:02:07 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:02 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.0000070s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.38 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 26 at Tue Apr 15 13:02:37 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 27 at Tue Apr 15 13:03:08 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 28 at Tue Apr 15 13:03:38 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+tcp        0      0 172.20.0.3:41586        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41440        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41120        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41282        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41790        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41374        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41572        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41252        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41874        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41412        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41264        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41606        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41538        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41274        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41722        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41214        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41146        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41306        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41868        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41852        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41876        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41848        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41642        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41360        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41818        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41648        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41582        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41346        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41518        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41164        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41130        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41676        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41684        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41324        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41428        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41152        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41764        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41464        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41698        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41332        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41596        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41630        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41198        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41296        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41066        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41620        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41368        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41674        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41562        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41756        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41182        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41202        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41448        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41808        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41744        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41552        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41798        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41636        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41734        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41838        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41712        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41664        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41200        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41184        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41776        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41506        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41474        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41482        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:41822        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41528        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41398        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41438        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41492        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:41226        172.20.0.2:80           ESTABLISHED
+Connections to unusual ports:
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41586        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41440        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41120        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41282        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41790        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41374        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41572        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41252        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41874        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41412        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41264        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41606        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41538        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41274        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41722        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41214        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41146        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41306        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41868        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41852        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41876        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41848        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41642        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41360        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41818        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41648        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41582        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41346        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41518        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41164        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41130        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41676        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41684        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41324        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41428        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41152        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41764        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41464        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41698        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41332        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41596        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41630        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41198        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41296        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41066        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41620        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41368        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41674        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41562        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41756        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41182        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41202        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41448        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41808        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41744        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41552        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41798        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41636        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41734        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41838        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41712        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41664        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41200        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41184        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41776        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41506        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41474        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41482        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:41822        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41528        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41398        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41438        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41492        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:41226        172.20.0.2:80           ESTABLISHED
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 66
+Active SSH connections: 0
+WARNING: High number of HTTP connections detected!
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 29 at Tue Apr 15 13:04:08 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+tcp        0      0 172.20.0.3:57046        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57544        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57408        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57192        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57444        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57052        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57568        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57320        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57832        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57742        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57530        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57716        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57402        172.20.0.2:80           ESTABLISHED
+tcp     3380      0 172.20.0.3:57690        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57864        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57226        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57650        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57730        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57608        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57492        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57390        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57502        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57106        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57350        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57702        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57456        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57434        172.20.0.2:80           ESTABLISHED
+tcp      484      0 172.20.0.3:57558        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57678        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57668        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57348        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57194        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57536        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57812        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57244        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57312        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57114        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57252        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57588        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57212        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57364        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57150        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57344        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57196        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57948        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57796        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57604        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57958        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57884        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57648        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57774        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57622        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57830        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57254        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57548        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57484        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57274        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57302        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57906        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57758        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57380        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57916        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57708        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57790        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57518        172.20.0.2:80           ESTABLISHED
+tcp      484      0 172.20.0.3:57840        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57260        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57088        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57404        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57712        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57636        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57878        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57580        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57890        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57658        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57142        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57998        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57806        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57288        172.20.0.2:80           ESTABLISHED
+tcp        0      0 172.20.0.3:57850        172.20.0.2:80           ESTABLISHED
+Connections to unusual ports:
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57046        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57544        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57408        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57192        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57444        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57052        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57568        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57320        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57832        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57742        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57530        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57716        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57402        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp     3380      0 172.20.0.3:57690        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57864        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57226        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57650        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57730        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57608        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57492        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57390        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57502        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57106        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57350        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57702        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57456        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57434        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp      484      0 172.20.0.3:57558        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57678        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57668        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57348        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57194        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57536        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57812        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57244        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57312        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57114        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57252        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57588        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57212        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57364        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57150        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57344        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57196        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57948        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57796        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57604        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57958        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57884        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57648        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57774        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57622        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57830        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57254        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57548        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57484        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57274        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57302        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57906        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57758        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57380        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57916        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57708        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57790        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57518        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp      484      0 172.20.0.3:57840        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57260        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57088        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57404        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57712        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57636        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57878        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57580        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57890        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57658        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57142        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57998        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57806        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57288        172.20.0.2:80           ESTABLISHED
+UNUSUAL PORT: tcp        0      0 172.20.0.3:57850        172.20.0.2:80           ESTABLISHED
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 51
+Active SSH connections: 0
+WARNING: High number of HTTP connections detected!
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 30 at Tue Apr 15 13:04:39 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:04 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.0000080s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.34 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 31 at Tue Apr 15 13:05:10 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 32 at Tue Apr 15 13:05:40 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 33 at Tue Apr 15 13:06:10 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 34 at Tue Apr 15 13:06:40 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 35 at Tue Apr 15 13:07:10 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:07 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000018s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.38 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 36 at Tue Apr 15 13:07:41 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 37 at Tue Apr 15 13:08:11 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 38 at Tue Apr 15 13:08:41 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 39 at Tue Apr 15 13:09:11 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 40 at Tue Apr 15 13:09:41 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:09 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000010s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 41 at Tue Apr 15 13:10:11 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 42 at Tue Apr 15 13:10:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 43 at Tue Apr 15 13:11:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 44 at Tue Apr 15 13:11:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 45 at Tue Apr 15 13:12:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:12 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000012s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.33 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 46 at Tue Apr 15 13:12:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 47 at Tue Apr 15 13:13:12 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 48 at Tue Apr 15 13:13:42 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 49 at Tue Apr 15 13:14:13 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 50 at Tue Apr 15 13:14:43 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:14 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000010s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.37 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 51 at Tue Apr 15 13:15:13 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 52 at Tue Apr 15 13:15:43 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 53 at Tue Apr 15 13:16:13 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 54 at Tue Apr 15 13:16:43 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 55 at Tue Apr 15 13:17:14 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:17 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000011s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.34 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 56 at Tue Apr 15 13:17:44 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 57 at Tue Apr 15 13:18:14 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 58 at Tue Apr 15 13:18:44 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 59 at Tue Apr 15 13:19:14 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 60 at Tue Apr 15 13:19:44 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:19 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.0000090s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.37 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 61 at Tue Apr 15 13:20:15 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 62 at Tue Apr 15 13:20:45 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 63 at Tue Apr 15 13:21:15 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 64 at Tue Apr 15 13:21:45 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 65 at Tue Apr 15 13:22:15 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:22 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000015s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 66 at Tue Apr 15 13:22:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 67 at Tue Apr 15 13:23:16 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 68 at Tue Apr 15 13:23:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 69 at Tue Apr 15 13:24:16 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 70 at Tue Apr 15 13:24:46 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:24 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000012s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.37 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 71 at Tue Apr 15 13:25:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 72 at Tue Apr 15 13:25:47 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 73 at Tue Apr 15 13:26:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 74 at Tue Apr 15 13:26:47 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 75 at Tue Apr 15 13:27:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:27 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000011s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.34 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 76 at Tue Apr 15 13:27:47 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 77 at Tue Apr 15 13:28:17 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 78 at Tue Apr 15 13:28:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 79 at Tue Apr 15 13:29:18 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 80 at Tue Apr 15 13:29:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:29 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.0000080s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 81 at Tue Apr 15 13:30:18 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 82 at Tue Apr 15 13:30:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 83 at Tue Apr 15 13:31:18 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 84 at Tue Apr 15 13:31:48 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 85 at Tue Apr 15 13:32:19 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:32 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000014s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.32 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 86 at Tue Apr 15 13:32:49 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 87 at Tue Apr 15 13:33:19 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 88 at Tue Apr 15 13:33:49 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 89 at Tue Apr 15 13:34:19 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 90 at Tue Apr 15 13:34:49 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:34 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000021s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 91 at Tue Apr 15 13:35:20 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 92 at Tue Apr 15 13:35:50 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 93 at Tue Apr 15 13:36:20 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 94 at Tue Apr 15 13:36:50 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 95 at Tue Apr 15 13:37:20 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:37 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.0000090s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.34 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 96 at Tue Apr 15 13:37:51 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 97 at Tue Apr 15 13:38:21 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 98 at Tue Apr 15 13:38:51 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 99 at Tue Apr 15 13:39:21 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 100 at Tue Apr 15 13:39:51 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:39 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000013s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.32 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 101 at Tue Apr 15 13:40:22 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 102 at Tue Apr 15 13:40:52 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 103 at Tue Apr 15 13:41:22 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 104 at Tue Apr 15 13:41:52 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
+
+=== Monitoring Iteration 105 at Tue Apr 15 13:42:22 UTC 2025 ===
+Checking for connections on unusual ports...
+Current established connections:
+
+Connections to unusual ports:
+
+Scanning web-server for open ports...
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-04-15 13:42 UTC
+Nmap scan report for web-server (172.20.0.2)
+Host is up (0.000026s latency).
+rDNS record for 172.20.0.2: web-server.idps-network-security_idps_network
+Not shown: 99 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 02:42:AC:14:00:02 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+Open ports on web-server:
+80/tcp
+
+Checking for potential port scan activity...
+Top 5 sources of SYN packets:
+
+
+Monitoring critical service ports...
+Active FTP connections: 0
+Active HTTP connections: 0
+Active SSH connections: 0
+
+Sleeping for 30 seconds...
+===========================================================
